@@ -7,6 +7,7 @@ void main(){
   // Number : double
   double num=92.0;
   var d=982.67;
+  var dd=42e5;
 
 
   // String :
@@ -26,6 +27,7 @@ void main(){
   print(x);
   print(num);
   print(d);
+  print(dd);
   print(str);
   print(s);
   print(isValid);
