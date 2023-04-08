@@ -27,4 +27,14 @@ void main() {
   print(ans.compareTo(27.90));
   print(ans.compareTo(253));
   print(ans.compareTo(23));
+  
+  // return int toInt()
+  print(ans.toInt());
+  
+  // return double toDouble()
+  print(ans.toDouble());
+  
+  // return String toString()
+  print(ans.toString());
 }
+
